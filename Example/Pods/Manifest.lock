@@ -1,0 +1,16 @@
+PODS:
+  - HirenPods (0.1.0)
+
+DEPENDENCIES:
+  - HirenPods (from `../`)
+
+EXTERNAL SOURCES:
+  HirenPods:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HirenPods: bfbbf887910ddfef10578a0982aebec4b74662e0
+
+PODFILE CHECKSUM: d6926f88b98720984b79dc6b94ac0ecf973e51fa
+
+COCOAPODS: 1.2.0

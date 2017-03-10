@@ -1,0 +1,6 @@
+framework module HirenPods {
+  umbrella header "HirenPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
